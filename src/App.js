@@ -1,7 +1,8 @@
 import React, {Component}from 'react';
 import logo from './logo.svg';
 import './App.css';
-import player from "./player.json"
+import player from "./playerpic.json";
+import PlayerCard from "./components/PlayerCard"
 import Wrapper from "./components/Wrapper"
 
 class App extends Component{
@@ -36,8 +37,8 @@ selectPlayer = player=>{
       message:"Next",
     })
   }
+
 };
-}
 
 render(){
   return(
@@ -48,17 +49,18 @@ render(){
       <p>{this.state.message}</p>
       <Wrapper>
         {
-          this.state.playerpic.map(playerpic=>(
+          this.state.player.map(player=>(
             <PlayerCard
             selectPlayer={this.selectPlayer}
-            player={picture.player}
-            image={picture.image} />
+            player={player.player}
+            image={player.image} />
           ))
         }
       </Wrapper>
     </div>
   )
       
+}
 }
 
 export default App;
