@@ -33,7 +33,7 @@ selectPlayer = player=>{
   }else{
     this.setState({
       clicked:this.state.clicked.concat([player]),
-      socre:this.state.score+1,
+      score:this.state.score+1,
       message:"Next",
     })
   }
