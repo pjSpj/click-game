@@ -1,42 +1,38 @@
 [
     {
-        "player":"",
-        "image":""
+        "player":"Kawhi Leonard",
+        "image":"https://assets1.sportsnet.ca/wp-content/uploads/2018/10/Big-Read-Kawhi-Leonard-drives.jpg"
     },
     {
-        "player":"",
-        "image":""
+        "player":"Kyle Lowry",
+        "image":"https://cdn.vox-cdn.com/thumbor/xMDD29_cXca3n34ebwCq5FLV-z4=/0x0:1638x2400/1820x1213/filters:focal(728x456:990x718):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/61462357/usa_today_10827369.0.jpg"
     },
     {
-        "player":"",
-        "image":""
+        "player":"Fred VanVleet",
+        "image":"https://imagesvc.timeincapp.com/v3/fan/image?url=https%3A%2F%2Fraptorsrapture.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2018%2F08%2F1128517471.jpeg&c=sc&w=850&h=560"
     },
     {
-        "player":"",
-        "image":""
+        "player":"Marc Gasol",
+        "image":"https://img.bleacherreport.net/img/slides/photos/004/331/946/hi-res-053d97855d9cf6d88f57b395656cffc2_crop_exact.jpg?h=533&w=800&q=70&crop_x=center&crop_y=top"
     },
     {
-        "player":"",
-        "image":""
+        "player":"Pascal Siakam",
+        "image":"https://imagesvc.timeincapp.com/v3/fan/image?url=https://raptorsrapture.com/wp-content/uploads/getty-images/2016/04/1124808150.jpeg&c=sc&w=3200&h=2358"
     },
     {
-        "player":"",
-        "image":""
+        "player":"Serge Ibaka",
+        "image":"https://cdn.face2faceafrica.com/www/wp-content/uploads/2017/12/serge_ibaka.jpg"
     },
     {
-        "player":"",
-        "image":""
+        "player":"Danny Green",
+        "image":"https://images.thestar.com/7WCrzusREmL2GGGb0lu_SrvUECE=/1086x724/smart/filters:cb(2700061000)/https://www.thestar.com/content/dam/thestar/sports/raptors/2018/12/20/danny-green-has-been-the-most-reliable-of-raptors/danny_green.jpg"
     },
     {
-        "player":"",
-        "image":""
+        "player":"OG Anunoby",
+        "image":"https://cdn.vox-cdn.com/thumbor/bDJOyyI8wPPHt5OzIXcjzAMxpjE=/0x0:2221x3332/1200x800/filters:focal(1115x714:1469x1068)/cdn.vox-cdn.com/uploads/chorus_image/image/61613337/955150732.jpg.0.jpg"
     },
     {
-        "player":"",
-        "image":""
-    },
-    {
-        "player":"",
-        "image":""
+        "player":"Norman Powell",
+        "image":"https://www.nbcsports.com/philadelphia/sites/csnphilly/files/styles/article_hero_image/public/2017/10/05/uspresswire-raptors-norman-powell.jpg?itok=VSsSJjwX"
     }
 ]
